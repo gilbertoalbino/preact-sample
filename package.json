@@ -1,7 +1,7 @@
 {
   "name": "preact-sample",
   "version": "1.0.0",
-  "description": "Sample Application with \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[CReact\u001b[3~\u001b[2~ A\u001b[2~\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cpplication by pReact",
+  "description": "Sample React Application built with pReact",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
